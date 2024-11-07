@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Generic;
 
 public class GenericSorter<T> where T : IComparable<T>
 {
